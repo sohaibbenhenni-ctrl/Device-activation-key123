@@ -12,14 +12,9 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     }, 
-{
-        "device_id": "device123",
-        "key": "sohaib",
-        "expirydate": "08-12-2025",
-        "Allowoffline": false
-    },
+    {
         "device_id": "cd86fd034ac4422e",
-        "key": "sohaibe",
+        "key": "sohaib",
         "expirydate": "12-03-2026",
         "Allowoffline": true
     }, 
