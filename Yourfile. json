@@ -10,5 +10,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    }, 
+{
+        "device_id": "cd86fd034ac4422e",
+        "key": "SOHAIB VIP",
+        "expirydate": "9-03-2026",
+        "Allowoffline": false
     }
 ]
